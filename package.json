@@ -1,0 +1,22 @@
+{
+  "name": "express-static",
+  "version": "1.0.0",
+  "description": "Create a Express server that uses static files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jufebrown/express-static.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jufebrown/express-static/issues"
+  },
+  "homepage": "https://github.com/Jufebrown/express-static#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
